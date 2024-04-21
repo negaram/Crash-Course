@@ -1,0 +1,11 @@
+friends = [ "Sarah" , "Somaye" , "Moloud", "Parinaz", "Razieh"]
+print(friends[-1])
+print(friends[2])
+print(friends[1])
+print(friends[0])
+print(friends[3])
+print(f"Hello my Darling! I miss you {friends[0].title()}")
+print(f"Hello my Darling! I miss you {friends[-1].title()}")
+print(f"Hello my Darling! I miss you {friends[2].title()}")
+print(f"Hello my Darling! I miss you {friends[3].title()}")
+print(f"Hello my Darling! I miss you {friends[1].title()}")

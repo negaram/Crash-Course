@@ -1,0 +1,2 @@
+values =  [ value*3 for value in range(3,30)]
+print(values)
